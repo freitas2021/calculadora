@@ -1,0 +1,30 @@
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\bin\Debug\net6.0\Nova pasta (2).exe
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\bin\Debug\net6.0\Nova pasta (2).deps.json
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\bin\Debug\net6.0\Nova pasta (2).runtimeconfig.json
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\bin\Debug\net6.0\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\bin\Debug\net6.0\Nova pasta (2).pdb
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).csproj.AssemblyReference.cache
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).AssemblyInfo.cs
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\refint\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).pdb
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\Nova pasta (2).genruntimeconfig.cache
+C:\Users\Gerencial R-47\Desktop\Nova pasta (2)\obj\Debug\net6.0\ref\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\bin\Debug\net6.0\Nova pasta (2).exe
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\bin\Debug\net6.0\Nova pasta (2).deps.json
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\bin\Debug\net6.0\Nova pasta (2).runtimeconfig.json
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\bin\Debug\net6.0\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\bin\Debug\net6.0\Nova pasta (2).pdb
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).csproj.AssemblyReference.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).AssemblyInfo.cs
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).csproj.CoreCompileInputs.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\refint\Nova pasta (2).dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).pdb
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\Nova pasta (2).genruntimeconfig.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Calculadora\obj\Debug\net6.0\ref\Nova pasta (2).dll
